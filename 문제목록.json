@@ -1,0 +1,1222 @@
+{
+  "categories": [
+    {
+      "id": "exam-essentials",
+      "name": "시험 전 필수 · 새로 정리",
+      "children": [
+        {
+          "id": "traffic-signs",
+          "name": "안전표지판·그림 구분"
+        },
+        {
+          "id": "signals-intersections",
+          "name": "신호·우회전·회전교차로"
+        },
+        {
+          "id": "hazard-prediction",
+          "name": "사진·동영상 위험예측"
+        },
+        {
+          "id": "parking-passenger-safety",
+          "name": "일반 주정차·승차안전"
+        },
+        {
+          "id": "emergency-accident-response",
+          "name": "긴급차 양보·사고대처"
+        }
+      ]
+    },
+    {
+      "id": "study-tools",
+      "name": "학습 도구",
+      "children": [
+        {
+          "id": "mock-exam",
+          "name": "40문제 모의고사"
+        },
+        {
+          "id": "exam-review",
+          "name": "시험 전 복습 계획"
+        }
+      ]
+    },
+    {
+      "id": "license-system",
+      "name": "운전면허 제도",
+      "children": [
+        {
+          "id": "license-conditions",
+          "name": "면허 조건·조건 코드"
+        },
+        {
+          "id": "overseas-driving",
+          "name": "해외 운전·영문면허증"
+        },
+        {
+          "id": "alcohol-interlock",
+          "name": "음주운전 방지장치·조건부 면허"
+        }
+      ]
+    },
+    {
+      "id": "vehicle-types",
+      "name": "자동차의 종류",
+      "children": [
+        {
+          "id": "special-vehicles",
+          "name": "특수자동차"
+        },
+        {
+          "id": "hydrogen-safety",
+          "name": "수소자동차·안전교육"
+        },
+        {
+          "id": "school-bus-report",
+          "name": "어린이통학버스·신고"
+        },
+        {
+          "id": "engines-motors",
+          "name": "원동기·전동기·원동기장치자전거"
+        },
+        {
+          "id": "vehicle-fuels",
+          "name": "차량 연료·구동방식별 특징"
+        },
+        {
+          "id": "personal-mobility",
+          "name": "개인형 이동장치·기준과 종류"
+        }
+      ]
+    },
+    {
+      "id": "penalties",
+      "name": "처벌·행정처분",
+      "children": [
+        {
+          "id": "exam-misconduct",
+          "name": "시험 부정행위"
+        },
+        {
+          "id": "mandatory-insurance",
+          "name": "의무보험 미가입"
+        },
+        {
+          "id": "fatigue-driving",
+          "name": "과로·졸음운전과 구류"
+        },
+        {
+          "id": "drunk-driving",
+          "name": "음주운전"
+        },
+        {
+          "id": "road-rage",
+          "name": "보복운전"
+        },
+        {
+          "id": "demerit-points",
+          "name": "벌점과 면허 처분"
+        },
+        {
+          "id": "reckless-driving",
+          "name": "난폭운전 vs 보복운전"
+        },
+        {
+          "id": "fines-by-amount",
+          "name": "범칙금·금액별 정리"
+        },
+        {
+          "id": "administrative-fines",
+          "name": "과태료·금액별 정리"
+        },
+        {
+          "id": "major-negligence",
+          "name": "12대 중과실"
+        }
+      ]
+    },
+    {
+      "id": "vehicle-maintenance",
+      "name": "자동차 관리",
+      "children": [
+        {
+          "id": "inspection-periods",
+          "name": "자동차 검사·유효기간"
+        },
+        {
+          "id": "license-plates",
+          "name": "번호판·색상"
+        },
+        {
+          "id": "vehicle-registration",
+          "name": "자동차 등록과 정보 갱신"
+        },
+        {
+          "id": "vin",
+          "name": "차대번호"
+        },
+        {
+          "id": "disabled-parking-permit",
+          "name": "장애인 주차표지·주차위반"
+        },
+        {
+          "id": "vehicle-lights",
+          "name": "자동차 등화·종류와 역할"
+        },
+        {
+          "id": "dashboard-lights",
+          "name": "계기판 경고등·표시등"
+        }
+      ]
+    },
+    {
+      "id": "comparison-concepts",
+      "name": "비교 개념",
+      "children": [
+        {
+          "id": "patent-registration",
+          "name": "특허등록"
+        }
+      ]
+    },
+    {
+      "id": "safe-driving",
+      "name": "안전운전",
+      "children": [
+        {
+          "id": "highway-merging",
+          "name": "고속도로 진입·진출"
+        },
+        {
+          "id": "intersection-hazards",
+          "name": "교차로 좌회전·위험예측"
+        },
+        {
+          "id": "slow-stop",
+          "name": "서행과 일시정지"
+        },
+        {
+          "id": "pedestrians",
+          "name": "법에서 보는 보행자"
+        },
+        {
+          "id": "pedestrian-priority",
+          "name": "보행자우선도로"
+        },
+        {
+          "id": "pedestrian-crossing",
+          "name": "보행자의 도로 횡단"
+        },
+        {
+          "id": "sidewalk-crossing",
+          "name": "자동차의 보도 횡단방법 위반"
+        },
+        {
+          "id": "road-access",
+          "name": "도로별 통행 가능 대상"
+        },
+        {
+          "id": "road-markings",
+          "name": "노면표시·색상"
+        },
+        {
+          "id": "weather-speed",
+          "name": "속도·날씨별 감속"
+        },
+        {
+          "id": "left-turn-lanes",
+          "name": "좌회전 차로·통행방법"
+        },
+        {
+          "id": "left-side-traffic",
+          "name": "도로의 좌측 통행"
+        },
+        {
+          "id": "stopping-distance",
+          "name": "공주·제동·정지·안전거리"
+        },
+        {
+          "id": "school-zones",
+          "name": "어린이보호구역·지정관리"
+        },
+        {
+          "id": "night-vision",
+          "name": "야간운전·증발현상·눈부심"
+        },
+        {
+          "id": "tunnel-driving",
+          "name": "터널 운전·암순응·명순응"
+        },
+        {
+          "id": "cycling-rules",
+          "name": "자전거 운전수칙·횡단과 신호"
+        }
+      ]
+    },
+    {
+      "id": "driver-education",
+      "name": "운전자 교육",
+      "children": [
+        {
+          "id": "education-overview",
+          "name": "교육 종류·주기 한눈에"
+        },
+        {
+          "id": "emergency-education",
+          "name": "긴급자동차 교통안전교육"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "question-001",
+      "title": "운전면허 조건 코드 A~I",
+      "category": "license-system",
+      "subcategory": "license-conditions",
+      "file": "오답노트.html",
+      "tags": [
+        "자동변속기",
+        "신체상태별 조건",
+        "A~I"
+      ]
+    },
+    {
+      "id": "question-002",
+      "title": "구난차와 견인차의 차이",
+      "category": "vehicle-types",
+      "subcategory": "special-vehicles",
+      "file": "오답노트.html",
+      "tags": [
+        "구난차",
+        "견인차",
+        "렉커",
+        "트레일러",
+        "특수자동차",
+        "3.5톤",
+        "총중량",
+        "2종 보통",
+        "특수면허",
+        "모의고사"
+      ]
+    },
+    {
+      "id": "question-003",
+      "title": "영문운전면허증과 국제운전면허증",
+      "category": "license-system",
+      "subcategory": "overseas-driving",
+      "file": "오답노트.html",
+      "tags": [
+        "영문면허증",
+        "국제면허증",
+        "제네바협약",
+        "비엔나협약",
+        "해외 체류"
+      ]
+    },
+    {
+      "id": "question-004",
+      "title": "시험 부정행위: 처분일부터 2년 응시 제한",
+      "category": "penalties",
+      "subcategory": "exam-misconduct",
+      "file": "오답노트.html",
+      "tags": [
+        "시험무효",
+        "2년",
+        "처분일",
+        "응시제한"
+      ]
+    },
+    {
+      "id": "question-005",
+      "title": "수소자동차의 원리와 특별교육 대상",
+      "category": "vehicle-types",
+      "subcategory": "hydrogen-safety",
+      "file": "오답노트.html",
+      "tags": [
+        "수소",
+        "고압가스",
+        "특별교육",
+        "36인승 이상"
+      ]
+    },
+    {
+      "id": "question-006",
+      "title": "자동차 최초 검사 유효기간과 개정",
+      "category": "vehicle-maintenance",
+      "subcategory": "inspection-periods",
+      "file": "오답노트.html",
+      "tags": [
+        "비사업용",
+        "신규승용차",
+        "4년",
+        "5년",
+        "법령개정",
+        "피견인자동차",
+        "차령6년",
+        "2년"
+      ],
+      "followups": [
+        {
+          "title": "차령 6년이 지난 피견인자동차",
+          "answer": "검사 유효기간 2년",
+          "basis": "별표 15의2 비고 2"
+        }
+      ]
+    },
+    {
+      "id": "question-007",
+      "title": "번호판 색상과 용도 구분",
+      "category": "vehicle-maintenance",
+      "subcategory": "license-plates",
+      "file": "오답노트.html",
+      "tags": [
+        "전기차",
+        "수소차",
+        "파란색",
+        "번호판",
+        "렌터카"
+      ]
+    },
+    {
+      "id": "question-008",
+      "title": "자동차 등록과 정보 갱신",
+      "category": "vehicle-maintenance",
+      "subcategory": "vehicle-registration",
+      "file": "오답노트.html",
+      "tags": [
+        "등록",
+        "이전등록",
+        "변경등록",
+        "사용본거지",
+        "신규등록",
+        "말소등록",
+        "압류등록",
+        "저당권등록",
+        "경정등록",
+        "예고등록"
+      ]
+    },
+    {
+      "id": "vin",
+      "title": "차대번호의 뜻·표시 위치·재표기",
+      "category": "vehicle-maintenance",
+      "subcategory": "vin",
+      "file": "오답노트.html",
+      "tags": [
+        "차대번호",
+        "VIN",
+        "타각",
+        "재표기"
+      ]
+    },
+    {
+      "id": "question-009",
+      "title": "의무보험 미가입·미운행 과태료",
+      "category": "penalties",
+      "subcategory": "mandatory-insurance",
+      "file": "오답노트.html",
+      "tags": [
+        "의무보험",
+        "미운행",
+        "과태료",
+        "300만원 이하"
+      ]
+    },
+    {
+      "id": "patent",
+      "title": "특허등록과 설정등록",
+      "category": "comparison-concepts",
+      "subcategory": "patent-registration",
+      "file": "오답노트.html",
+      "tags": [
+        "특허권",
+        "설정등록"
+      ]
+    },
+    {
+      "id": "question-010",
+      "title": "고속도로 진입·진출 · 가속차로와 감속차로",
+      "category": "safe-driving",
+      "subcategory": "highway-merging",
+      "file": "오답노트.html",
+      "tags": [
+        "본선",
+        "가속차로",
+        "1차로",
+        "합류",
+        "감속차로",
+        "진입",
+        "진출",
+        "출구",
+        "차로 감소"
+      ]
+    },
+    {
+      "id": "question-011",
+      "title": "좌회전 중 맞은편 우회전 자전거 위험",
+      "category": "safe-driving",
+      "subcategory": "intersection-hazards",
+      "file": "오답노트.html",
+      "tags": [
+        "교차로",
+        "좌회전",
+        "우회전",
+        "자전거",
+        "위험예측"
+      ]
+    },
+    {
+      "id": "question-012",
+      "title": "서행 장소와 일시정지 상황 구분",
+      "category": "safe-driving",
+      "subcategory": "slow-stop",
+      "file": "오답노트.html",
+      "tags": [
+        "서행",
+        "일시정지",
+        "어린이",
+        "흰색지팡이",
+        "교통정리"
+      ]
+    },
+    {
+      "id": "question-013",
+      "title": "과로운전 벌칙과 구류·체포의 차이",
+      "category": "penalties",
+      "subcategory": "fatigue-driving",
+      "file": "오답노트.html",
+      "tags": [
+        "과로",
+        "졸음운전",
+        "30만원",
+        "벌금",
+        "구류",
+        "체포"
+      ]
+    },
+    {
+      "id": "question-014",
+      "title": "승용자동차 음주운전 처벌 기준",
+      "category": "penalties",
+      "subcategory": "drunk-driving",
+      "file": "오답노트.html",
+      "tags": [
+        "음주운전",
+        "혈중알코올농도",
+        "징역",
+        "벌금",
+        "면허처분"
+      ]
+    },
+    {
+      "id": "question-015",
+      "title": "보복운전 처벌과 면허 처분",
+      "category": "penalties",
+      "subcategory": "road-rage",
+      "file": "오답노트.html",
+      "tags": [
+        "보복운전",
+        "특수협박",
+        "특수상해",
+        "벌점",
+        "면허취소"
+      ]
+    },
+    {
+      "id": "question-016",
+      "title": "벌점 누적에 따른 면허정지·취소 기준",
+      "category": "penalties",
+      "subcategory": "demerit-points",
+      "file": "오답노트.html",
+      "tags": [
+        "벌점",
+        "처분벌점",
+        "누산점수",
+        "면허정지",
+        "면허취소"
+      ]
+    },
+    {
+      "id": "question-017",
+      "title": "난폭운전과 보복운전의 구분",
+      "category": "penalties",
+      "subcategory": "reckless-driving",
+      "file": "오답노트.html",
+      "tags": [
+        "중앙선",
+        "급제동",
+        "난폭운전",
+        "보복운전",
+        "반복"
+      ]
+    },
+    {
+      "id": "question-018",
+      "title": "법상 보행자 유형과 무동력 손수레",
+      "category": "safe-driving",
+      "subcategory": "pedestrians",
+      "file": "오답노트.html",
+      "tags": [
+        "보행자",
+        "손수레",
+        "1미터",
+        "휠체어",
+        "유모차",
+        "자전거"
+      ]
+    },
+    {
+      "id": "question-019",
+      "title": "보행자우선도로의 통행과 운전자 의무",
+      "category": "safe-driving",
+      "subcategory": "pedestrian-priority",
+      "file": "오답노트.html",
+      "tags": [
+        "보행자우선도로",
+        "서행",
+        "안전거리",
+        "일시정지",
+        "20km"
+      ]
+    },
+    {
+      "id": "question-020",
+      "title": "보행자의 도로 횡단 방법과 예외",
+      "category": "safe-driving",
+      "subcategory": "pedestrian-crossing",
+      "file": "오답노트.html",
+      "tags": [
+        "횡단보도",
+        "육교",
+        "지하도",
+        "최단거리",
+        "횡단금지",
+        "보행자"
+      ]
+    },
+    {
+      "id": "question-021",
+      "title": "자동차의 보도 횡단방법 위반",
+      "category": "safe-driving",
+      "subcategory": "sidewalk-crossing",
+      "file": "오답노트.html",
+      "tags": [
+        "보도",
+        "횡단",
+        "주차장",
+        "6만원",
+        "범칙금"
+      ]
+    },
+    {
+      "id": "question-022",
+      "title": "범칙금·금액별 정리",
+      "category": "penalties",
+      "subcategory": "fines-by-amount",
+      "file": "오답노트.html",
+      "tags": [
+        "범칙금",
+        "4만원",
+        "6만원",
+        "벌점",
+        "어린이통학버스 특별보호",
+        "9만원",
+        "30점",
+        "3만원",
+        "깜빡이",
+        "방향지시등",
+        "진로변경",
+        "신호 불이행"
+      ]
+    },
+    {
+      "id": "question-023",
+      "title": "의료용 전동휠체어와 도로별 통행 대상",
+      "category": "safe-driving",
+      "subcategory": "road-access",
+      "file": "오답노트.html",
+      "tags": [
+        "전동휠체어",
+        "의료용 스쿠터",
+        "보도",
+        "자전거전용도로",
+        "겸용도로"
+      ]
+    },
+    {
+      "id": "question-024",
+      "title": "노면표시 색상과 보호구역 속도표시 테두리",
+      "category": "safe-driving",
+      "subcategory": "road-markings",
+      "file": "오답노트.html",
+      "tags": [
+        "노면표시",
+        "안전지대",
+        "전용차로",
+        "색깔유도선",
+        "빨간색",
+        "흰색"
+      ]
+    },
+    {
+      "id": "question-025",
+      "title": "날씨별 감속과 기본 속도 규정",
+      "category": "safe-driving",
+      "subcategory": "weather-speed",
+      "file": "오답노트.html",
+      "tags": [
+        "속도",
+        "감속",
+        "폭우",
+        "안개",
+        "눈",
+        "결빙",
+        "가시거리",
+        "20%",
+        "50%"
+      ]
+    },
+    {
+      "id": "question-026",
+      "title": "좌회전 차로별 통행과 대형승합차 차로",
+      "category": "safe-driving",
+      "subcategory": "left-turn-lanes",
+      "file": "오답노트.html",
+      "tags": [
+        "좌회전",
+        "1차로",
+        "2차로",
+        "대형승합차",
+        "유도선",
+        "비보호"
+      ]
+    },
+    {
+      "id": "question-027",
+      "title": "도로 좌측 통행 예외와 앞지르기 제한",
+      "category": "safe-driving",
+      "subcategory": "left-side-traffic",
+      "file": "오답노트.html",
+      "tags": [
+        "중앙선",
+        "좌측",
+        "앞지르기",
+        "6미터",
+        "차마의 통행",
+        "제13조"
+      ]
+    },
+    {
+      "id": "question-028",
+      "title": "공주거리·제동거리·정지거리와 안전거리",
+      "category": "safe-driving",
+      "subcategory": "stopping-distance",
+      "file": "오답노트.html",
+      "tags": [
+        "공주거리",
+        "제동거리",
+        "정지거리",
+        "안전거리",
+        "브레이크"
+      ]
+    },
+    {
+      "id": "question-029",
+      "title": "긴급자동차 운전자 신규·정기 교통안전교육",
+      "category": "driver-education",
+      "subcategory": "emergency-education",
+      "file": "오답노트.html",
+      "tags": [
+        "긴급자동차",
+        "교육",
+        "3년",
+        "신규교육",
+        "정기교육",
+        "2시간",
+        "3시간",
+        "긴급자동차 정의",
+        "전파감시",
+        "신청",
+        "지정",
+        "시·도경찰청장",
+        "6종류"
+      ]
+    },
+    {
+      "id": "question-030",
+      "title": "어린이보호구역 지정·관리 주체와 운전자 의무",
+      "category": "safe-driving",
+      "subcategory": "school-zones",
+      "file": "오답노트.html",
+      "tags": [
+        "어린이보호구역",
+        "시장등",
+        "경찰",
+        "300미터",
+        "500미터",
+        "스쿨존",
+        "어린이통학버스 특별보호",
+        "9만원",
+        "30점",
+        "3배",
+        "2배",
+        "12대 중과실",
+        "교통사고처리 특례법",
+        "어린이 상해",
+        "안전운전 의무",
+        "오전 8시~오후 8시"
+      ]
+    },
+    {
+      "id": "question-031",
+      "title": "어린이통학버스 신고 주체·절차·차량 요건",
+      "category": "vehicle-types",
+      "subcategory": "school-bus-report",
+      "file": "오답노트.html",
+      "tags": [
+        "어린이통학버스",
+        "신고",
+        "운영자",
+        "경찰서장",
+        "9인승",
+        "신고증명서",
+        "한국도로교통공단",
+        "안전교육",
+        "동승보호자",
+        "2년",
+        "우측 상단"
+      ]
+    },
+    {
+      "id": "education-overview",
+      "title": "교육 종류·주기 한눈에: 통학버스·긴급자동차·수소차",
+      "category": "driver-education",
+      "subcategory": "education-overview",
+      "file": "오답노트.html",
+      "tags": [
+        "안전교육",
+        "정기교육",
+        "신규교육",
+        "2년",
+        "3년",
+        "최초 1회",
+        "어린이통학버스",
+        "긴급자동차",
+        "수소",
+        "한국도로교통공단",
+        "한국가스안전공사"
+      ]
+    },
+    {
+      "id": "question-032",
+      "title": "12대 중과실: 의미·12가지 유형·사고 예시와 합의·보험",
+      "category": "penalties",
+      "subcategory": "major-negligence",
+      "file": "오답노트.html",
+      "tags": [
+        "12대 중과실",
+        "중과실",
+        "과실",
+        "고의",
+        "교통사고처리 특례법",
+        "합의",
+        "보험",
+        "형사책임",
+        "신호위반",
+        "중앙선 침범",
+        "과속",
+        "앞지르기",
+        "철길건널목",
+        "횡단보도",
+        "무면허",
+        "음주",
+        "약물",
+        "보도",
+        "승객 추락",
+        "어린이보호구역",
+        "화물 고정"
+      ]
+    },
+    {
+      "id": "question-033",
+      "title": "장애인 주차표지·발급기관·불법주차와 주차방해",
+      "category": "vehicle-maintenance",
+      "subcategory": "disabled-parking-permit",
+      "file": "오답노트.html",
+      "tags": [
+        "장애인전용주차구역",
+        "주차표지",
+        "발급기관",
+        "국가보훈부장관",
+        "특별자치시장",
+        "특별자치도지사",
+        "시장",
+        "군수",
+        "구청장",
+        "보건복지부장관",
+        "주민센터",
+        "보행상 장애",
+        "주차방해",
+        "불법주차",
+        "10만원",
+        "50만원",
+        "진입로",
+        "물건 적재",
+        "표시 훼손",
+        "753번"
+      ]
+    },
+    {
+      "id": "question-034",
+      "title": "자동차 등화 종류·역할: 차폭등과 미등, 야간 고장 정차",
+      "category": "vehicle-maintenance",
+      "subcategory": "vehicle-lights",
+      "file": "오답노트.html",
+      "tags": [
+        "등화",
+        "차폭등",
+        "미등",
+        "후미등",
+        "전조등",
+        "제동등",
+        "후진등",
+        "후퇴등",
+        "방향지시등",
+        "비상등",
+        "안개등",
+        "번호등",
+        "주간주행등",
+        "실내조명등",
+        "밤",
+        "고장",
+        "정차",
+        "모의고사 17번",
+        "모두 켜야",
+        "운행",
+        "견인되는 차"
+      ]
+    },
+    {
+      "id": "question-035",
+      "title": "과태료 금액별 정리: 장애인 주차·충전구역·의무보험",
+      "category": "penalties",
+      "subcategory": "administrative-fines",
+      "file": "오답노트.html",
+      "tags": [
+        "과태료",
+        "10만원",
+        "충전시설",
+        "충전구역",
+        "일반차량",
+        "전기자동차",
+        "외부충전식하이브리드",
+        "PHEV",
+        "의무보험",
+        "300만원 이하",
+        "장애인전용주차구역",
+        "불법주차",
+        "주차방해",
+        "50만원"
+      ]
+    },
+    {
+      "id": "exam-review",
+      "title": "시험 전 복습 계획: 오늘 2~3시간·범위 점검과 우선순위",
+      "category": "study-tools",
+      "subcategory": "exam-review",
+      "file": "오답노트.html",
+      "tags": [
+        "시험 전",
+        "복습",
+        "공부 방법",
+        "학습 범위",
+        "우선순위",
+        "모의고사",
+        "2종 보통",
+        "합격선",
+        "60점",
+        "74점",
+        "10문항",
+        "모의고사 오답",
+        "보류"
+      ]
+    },
+    {
+      "id": "question-037",
+      "title": "안전표지판·그림 구분",
+      "category": "exam-essentials",
+      "subcategory": "traffic-signs",
+      "file": "오답노트.html",
+      "tags": [
+        "시험 전 필수",
+        "새로 추가",
+        "안전표지판·그림 구분",
+        "대표 표지 14개",
+        "주의/규제/지시/보조",
+        "출구감속 유도표지",
+        "양측방통행",
+        "중앙분리대 시작",
+        "회전교차로",
+        "로터리",
+        "지시표지",
+        "규제표지",
+        "주의표지",
+        "모의고사"
+      ]
+    },
+    {
+      "id": "question-036",
+      "title": "신호·우회전·회전교차로",
+      "category": "exam-essentials",
+      "subcategory": "signals-intersections",
+      "file": "오답노트.html",
+      "tags": [
+        "시험 전 필수",
+        "새로 추가",
+        "신호·우회전·회전교차로",
+        "점멸신호",
+        "정지·양보",
+        "회전 방향",
+        "선진입",
+        "신호 없는 교차로",
+        "양보",
+        "직진",
+        "좌회전",
+        "우회전 삼색등",
+        "적신호 시 우회전 금지",
+        "모의고사"
+      ]
+    },
+    {
+      "id": "question-038",
+      "title": "사진·동영상 위험예측",
+      "category": "exam-essentials",
+      "subcategory": "hazard-prediction",
+      "file": "오답노트.html",
+      "tags": [
+        "시험 전 필수",
+        "새로 추가",
+        "사진·동영상 위험예측",
+        "주변 사람",
+        "사각지대",
+        "안전한 대응"
+      ]
+    },
+    {
+      "id": "question-039",
+      "title": "일반 주정차·승차안전",
+      "category": "exam-essentials",
+      "subcategory": "parking-passenger-safety",
+      "file": "오답노트.html",
+      "tags": [
+        "시험 전 필수",
+        "새로 추가",
+        "일반 주정차·승차안전",
+        "5m·10m",
+        "주차 vs 정차",
+        "안전띠"
+      ]
+    },
+    {
+      "id": "question-040",
+      "title": "긴급차 양보·사고대처",
+      "category": "exam-essentials",
+      "subcategory": "emergency-accident-response",
+      "file": "오답노트.html",
+      "tags": [
+        "시험 전 필수",
+        "새로 추가",
+        "긴급차 양보·사고대처",
+        "교차로 피하기",
+        "구호",
+        "2차 사고 예방"
+      ]
+    },
+    {
+      "id": "question-041",
+      "title": "야간운전·증발현상·눈부심",
+      "category": "safe-driving",
+      "subcategory": "night-vision",
+      "file": "오답노트.html",
+      "tags": [
+        "증발현상",
+        "현혹현상",
+        "야간운전",
+        "전조등",
+        "상향등",
+        "하향등",
+        "우측 가장자리",
+        "눈부심",
+        "중앙선",
+        "모의고사"
+      ]
+    },
+    {
+      "id": "mock-exam",
+      "title": "40문제 모의고사 · 40분 타이머",
+      "category": "study-tools",
+      "subcategory": "mock-exam",
+      "file": "오답노트.html",
+      "tags": [
+        "모의고사",
+        "40문제",
+        "40분",
+        "타이머",
+        "채점",
+        "찍은 문제",
+        "오답 복습",
+        "PDF"
+      ]
+    },
+    {
+      "id": "question-042",
+      "title": "터널 운전·암순응·명순응",
+      "category": "safe-driving",
+      "subcategory": "tunnel-driving",
+      "file": "오답노트.html",
+      "tags": [
+        "터널",
+        "명순응",
+        "암순응",
+        "밝기",
+        "거리감",
+        "앞지르기",
+        "차로변경",
+        "화재",
+        "전조등"
+      ]
+    },
+    {
+      "id": "question-043",
+      "title": "음주운전 방지장치·조건부 면허",
+      "category": "license-system",
+      "subcategory": "alcohol-interlock",
+      "file": "오답노트.html",
+      "tags": [
+        "음주운전",
+        "방지장치",
+        "조건부 운전면허",
+        "시동",
+        "5년",
+        "결격기간",
+        "연 2회",
+        "1시간",
+        "특별교통안전교육"
+      ]
+    },
+    {
+      "id": "question-044",
+      "title": "원동기·전동기·원동기장치자전거",
+      "category": "vehicle-types",
+      "subcategory": "engines-motors",
+      "file": "오답노트.html",
+      "tags": [
+        "원동기",
+        "전동기",
+        "엔진",
+        "모터",
+        "원동기장치자전거",
+        "125cc",
+        "11kW",
+        "배기량",
+        "최고정격출력",
+        "개인형 이동장치"
+      ]
+    },
+    {
+      "id": "question-045",
+      "title": "차량 연료·구동방식별 특징",
+      "category": "vehicle-types",
+      "subcategory": "vehicle-fuels",
+      "file": "오답노트.html",
+      "tags": [
+        "휘발유",
+        "경유",
+        "가솔린",
+        "디젤",
+        "LPG",
+        "CNG",
+        "연료",
+        "전기차",
+        "하이브리드",
+        "HEV",
+        "PHEV",
+        "수소",
+        "연료전지"
+      ]
+    },
+    {
+      "id": "question-046",
+      "title": "계기판 경고등·표시등",
+      "category": "vehicle-maintenance",
+      "subcategory": "dashboard-lights",
+      "file": "오답노트.html",
+      "tags": [
+        "경고등",
+        "계기판",
+        "표시등",
+        "엔진오일",
+        "냉각수",
+        "배터리",
+        "충전",
+        "브레이크",
+        "ABS",
+        "TPMS",
+        "ESC",
+        "EPS",
+        "에어백",
+        "예열",
+        "DPF",
+        "안전벨트",
+        "연료부족",
+        "상향등",
+        "READY"
+      ]
+    },
+    {
+      "id": "question-047",
+      "title": "개인형 이동장치·기준과 종류",
+      "category": "vehicle-types",
+      "subcategory": "personal-mobility",
+      "file": "오답노트.html",
+      "tags": [
+        "개인형 이동장치",
+        "PM",
+        "전동킥보드",
+        "전동이륜평행차",
+        "스로틀",
+        "전기자전거",
+        "PAS",
+        "전동기",
+        "원동기장치자전거",
+        "25km",
+        "30kg",
+        "면허",
+        "안전모",
+        "승차정원"
+      ]
+    },
+    {
+      "id": "question-048",
+      "title": "자전거 운전수칙·횡단도와 신호",
+      "category": "safe-driving",
+      "subcategory": "cycling-rules",
+      "file": "오답노트.html",
+      "tags": [
+        "자전거",
+        "운전수칙",
+        "자전거등",
+        "자전거횡단도",
+        "횡단보도",
+        "자전거횡단신호등",
+        "자전거주행신호등",
+        "보행신호등",
+        "차량신호등",
+        "내려서 끌기",
+        "안전모",
+        "좌회전",
+        "771번"
+      ]
+    }
+  ]
+}

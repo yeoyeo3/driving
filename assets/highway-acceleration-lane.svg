@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 760" role="img" aria-labelledby="accel-title accel-desc">
+  <title id="accel-title">가속차로에서 본선으로 합류하는 세로 도식</title>
+  <desc id="accel-desc">본선 두 차로는 위로 계속 이어진다. 오른쪽 가속차로의 B는 속도를 맞추며, 앞서 본선 2차로를 달리는 A의 뒤로 합류한다. 가속차로는 앞쪽에서 좁아지며 끝난다.</desc>
+  <defs><marker id="accel-route-head" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 7 3.5 0 7Z" fill="#137a60"/></marker></defs>
+  <rect width="560" height="760" rx="18" fill="#edf3e9"/>
+  <text x="280" y="32" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="700" fill="#234439">본선 2개 차로는 계속 이어짐 ↑</text>
+  <path d="M290 675V110L410 270V675Z" fill="#7c887e"/>
+  <path d="M50 65H290V675H50Z" fill="#626f69"/>
+  <path d="M50 65V675M290 65V110L410 270V675" fill="none" stroke="#f5f6ec" stroke-width="5"/>
+  <path d="M170 65V675M290 270V675" stroke="#fff" stroke-width="4" stroke-dasharray="22 15"/>
+  <g fill="#fff" font-family="sans-serif" font-size="21" text-anchor="middle"><text x="110" y="100">본선</text><text x="110" y="128">1차로</text><text x="230" y="100">본선</text><text x="230" y="128">2차로</text><text x="350" y="650">가속차로</text></g>
+  <path d="M110 470V400m-15 20 15-20 15 20" fill="none" stroke="#fff" stroke-width="7"/>
+  <path d="M350 355V315q0-23-22-44m-2 25-2-28 28 2" fill="none" stroke="#fff" stroke-width="7"/>
+  <rect x="208" y="165" width="44" height="76" rx="10" fill="#d19c42" stroke="#f7dfaa" stroke-width="2"/>
+  <rect x="214" y="174" width="32" height="15" rx="3" fill="#e4f1eb"/>
+  <text x="230" y="221" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="700" fill="#fff">A</text>
+  <rect x="328" y="545" width="44" height="76" rx="10" fill="#137a60" stroke="#c8f4dc" stroke-width="2"/>
+  <rect x="334" y="554" width="32" height="15" rx="3" fill="#e4f1eb"/>
+  <text x="350" y="600" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="700" fill="#fff">B</text>
+  <path d="M350 530V470C350 405 230 405 230 302" fill="none" stroke="#dcf4d3" stroke-width="15"/>
+  <path d="M350 530V470C350 405 230 405 230 302" fill="none" stroke="#137a60" stroke-width="5" marker-end="url(#accel-route-head)"/>
+  <rect x="61" y="518" width="219" height="82" rx="10" fill="#f4fbf0"/>
+  <text x="170" y="549" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="#09634b">속도·간격을 맞추고</text><text x="170" y="579" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="#09634b">A 뒤로 안전하게 합류</text>
+  <path d="M353 169 312 145" stroke="#607a68" stroke-width="2"/>
+  <text x="423" y="158" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#425f4d">가속차로 끝</text><text x="439" y="189" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#425f4d">점차 좁아짐</text>
+  <text x="280" y="713" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="700" fill="#09634b">진입로 → 가속차로 → 본선</text>
+  <text x="280" y="742" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#687b74">아래에서 위로 진행 · 대표 구조의 개념도</text>
+</svg>

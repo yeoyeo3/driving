@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 510" font-family="Arial, Apple SD Gothic Neo, sans-serif">
+  <defs>
+    <marker id="car-route" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 8 4 0 8" fill="#d3913b"/></marker>
+    <marker id="walk-route" markerWidth="7" markerHeight="7" refX="5" refY="3.5" orient="auto"><path d="M0 0 7 3.5 0 7" fill="#137a60"/></marker>
+  </defs>
+  <rect width="560" height="510" rx="14" fill="#f6f7f1"/>
+  <rect x="12" y="52" width="208" height="400" fill="#697777"/>
+  <path d="M65 58v388" stroke="#f0ce70" stroke-width="3" stroke-dasharray="18 12"/>
+  <rect x="220" y="52" width="10" height="400" fill="#b6c0b4"/>
+  <rect x="230" y="52" width="80" height="400" fill="#e1cba9"/>
+  <path d="M230 95h80M230 135h80M230 175h80M230 215h80M230 255h80M230 295h80M230 335h80M230 375h80M230 415h80" stroke="#c8b18b"/>
+  <rect x="310" y="52" width="10" height="400" fill="#b6c0b4"/>
+  <rect x="320" y="52" width="228" height="400" rx="5" fill="#d2dcd1"/>
+  <rect x="320" y="210" width="228" height="104" fill="#c1cdbf"/>
+  <path d="M365 85h60v80h-60M455 85h60v80h-60M365 350h60v70h-60M455 350h60v70h-60" stroke="#fff" stroke-width="3" fill="none"/>
+  <g fill="#20332f" font-size="19" font-weight="700" text-anchor="middle">
+    <text x="116" y="32">차도</text><text x="270" y="32">보도</text><text x="435" y="32">건물 주차장</text>
+  </g>
+  <text x="270" y="475" text-anchor="middle" font-size="17" fill="#695237">사람이 걷는 인도는 출입구 앞에서도 이어져요</text>
+  <text x="280" y="498" text-anchor="middle" font-size="13" fill="#687b74">위에서 본 개념도 · 공식 표지나 정지선을 재현한 그림은 아니에요</text>
+  <path d="M150 424V320Q150 263 199 263" fill="none" stroke="#d3913b" stroke-width="5"/>
+  <path d="M225 263h230" fill="none" stroke="#d3913b" stroke-width="5" stroke-dasharray="9 6" marker-end="url(#car-route)"/>
+  <rect x="136" y="238" width="76" height="50" rx="12" fill="#537ba4" stroke="#fff" stroke-width="2"/>
+  <rect x="188" y="245" width="15" height="36" rx="3" fill="#dfedf3"/>
+  <rect x="145" y="246" width="11" height="34" rx="3" fill="#dfedf3"/>
+  <path d="M219 227v72" stroke="#b96552" stroke-width="6"/>
+  <rect x="20" y="175" width="193" height="48" rx="8" fill="#fff4e9"/>
+  <text x="116" y="195" text-anchor="middle" font-size="15" font-weight="700" fill="#a44c39">① 인도 직전 일시정지</text>
+  <text x="116" y="214" text-anchor="middle" font-size="13" fill="#a44c39">빨간 선은 설명용 위치 표시</text>
+  <path d="M206 220 218 230" stroke="#b96552" stroke-width="2"/>
+  <g transform="translate(270 114)" stroke="#137a60" stroke-width="6" stroke-linecap="round" fill="#137a60">
+    <circle cy="-14" r="9" stroke="none"/><path d="M0 0v23M0 7-13 19M0 7l13 12M0 23-11 18M0 23l11 18" fill="none"/>
+  </g>
+  <path d="M270 165v38" stroke="#137a60" stroke-width="3" marker-end="url(#walk-route)"/>
+  <g transform="translate(270 364)" stroke="#137a60" stroke-width="6" stroke-linecap="round" fill="#137a60">
+    <circle cy="-14" r="9" stroke="none"/><path d="M0 0v23M0 7-13 19M0 7l13 12M0 23-11 18M0 23l11 18" fill="none"/>
+  </g>
+  <path d="M270 337v-25" stroke="#137a60" stroke-width="3" marker-end="url(#walk-route)"/>
+  <rect x="330" y="171" width="208" height="32" rx="7" fill="#f6f8ef"/>
+  <text x="434" y="192" text-anchor="middle" font-size="15" fill="#137a60">② 좌우 보행자 확인</text>
+  <rect x="330" y="319" width="208" height="27" rx="7" fill="#f6f8ef"/>
+  <text x="434" y="338" text-anchor="middle" font-size="14" fill="#695237">③ 보행자 통행을 방해하지 않기</text>
+  <text x="435" y="245" text-anchor="middle" font-size="16" fill="#53664f">보행자 확인 후</text>
+  <text x="435" y="294" text-anchor="middle" font-size="16" fill="#53664f">이 방향으로 진입</text>
+</svg>

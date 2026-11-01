@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-labelledby="title desc">
+  <title id="title">어린이통학버스 신고증명서 부착 위치</title>
+  <desc id="desc">차량 안에서 앞을 바라본 모습. 운전대는 왼쪽, 신고증명서는 앞유리의 우측 상단에 붙어 있다.</desc>
+  <rect width="640" height="460" rx="20" fill="#f2f6ef"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Apple SD Gothic Neo, sans-serif" fill="#20332f" text-anchor="middle">
+    <text x="320" y="35" font-size="22" font-weight="700">차 안에서 앞을 보는 모습</text>
+    <path d="M95 100Q100 74 130 74H510Q540 74 545 100L592 315H48Z" fill="#f3c94f" stroke="#b18b26" stroke-width="3"/>
+    <path d="M115 105Q118 94 134 94H506Q522 94 525 105L564 293H76Z" fill="#dceef0" stroke="#425e60" stroke-width="6"/>
+    <path d="M270 293L299 195H341L370 293Z" fill="#b7c9c7"/>
+    <path d="M320 281V259M320 242V227M320 214V205" stroke="white" stroke-width="4"/>
+    <rect x="284" y="105" width="72" height="22" rx="9" fill="#425e60"/>
+    <rect x="427" y="110" width="78" height="101" rx="4" fill="white" stroke="#137a60" stroke-width="4"/>
+    <text x="466" y="136" font-size="13" font-weight="700">신고증명서</text>
+    <path d="M440 150H491M440 161H491M440 172H480" stroke="#9ab7aa" stroke-width="3"/>
+    <circle cx="481" cy="191" r="7" fill="#e7a49a"/>
+    <rect x="412" y="99" width="108" height="124" rx="12" fill="none" stroke="#137a60" stroke-width="3" stroke-dasharray="7 5"/>
+    <rect x="394" y="238" width="156" height="35" rx="17" fill="#137a60"/>
+    <text x="472" y="262" fill="white" font-size="19" font-weight="700">우측 상단</text>
+    <path d="M468 238V225" stroke="#137a60" stroke-width="3"/>
+    <path d="M50 300H590L620 372H20Z" fill="#405653"/>
+    <rect x="260" y="317" width="123" height="31" rx="7" fill="#253c38"/>
+    <circle cx="168" cy="333" r="46" fill="#f2f6ef" stroke="#253c38" stroke-width="12"/>
+    <circle cx="168" cy="333" r="13" fill="#253c38"/>
+    <path d="M168 333L131 316M168 333L205 316M168 333V373" stroke="#253c38" stroke-width="9"/>
+    <text x="168" y="405" font-size="19">왼쪽 · 운전석</text>
+    <text x="472" y="405" font-size="19" font-weight="700" fill="#137a60">오른쪽 · 부착 위치</text>
+    <text x="320" y="439" font-size="14" fill="#687b74">위치를 이해하기 위한 그림 · 증명서 모양과 크기는 예시</text>
+  </g>
+</svg>

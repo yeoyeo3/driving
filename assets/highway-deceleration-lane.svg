@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 760" role="img" aria-labelledby="decel-title decel-desc">
+  <title id="decel-title">본선에서 감속차로를 거쳐 출구로 나가는 세로 도식</title>
+  <desc id="decel-desc">본선 두 차로는 위로 계속 이어진다. 오른쪽에 별도로 생긴 감속차로는 출구로 갈라진다. 본선 2차로의 자동차는 오른쪽 감속차로로 옮긴 뒤 속도를 줄여 출구로 나간다.</desc>
+  <defs><marker id="decel-route-head" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 7 3.5 0 7Z" fill="#137a60"/></marker></defs>
+  <rect width="560" height="760" rx="18" fill="#edf3e9"/>
+  <text x="280" y="32" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="700" fill="#234439">본선 2개 차로는 계속 이어짐 ↑</text>
+  <path d="M290 650 410 505V330Q410 220 535 150V65Q290 170 290 330Z" fill="#7c887e"/>
+  <path d="M50 65H290V675H50Z" fill="#626f69"/>
+  <path d="M50 65V675M290 65V330Q290 170 535 65M290 650 410 505V330Q410 220 535 150M290 650V675" fill="none" stroke="#f5f6ec" stroke-width="5"/>
+  <path d="M170 65V675M290 330V650" stroke="#fff" stroke-width="4" stroke-dasharray="22 15"/>
+  <g fill="#fff" font-family="sans-serif" font-size="21" text-anchor="middle"><text x="110" y="100">본선</text><text x="110" y="128">1차로</text><text x="230" y="100">본선</text><text x="230" y="128">2차로</text></g>
+  <path d="M110 470V400m-15 20 15-20 15 20M230 255V190m-15 20 15-20 15 20" fill="none" stroke="#fff" stroke-width="7"/>
+  <rect x="208" y="576" width="44" height="76" rx="10" fill="#137a60" stroke="#c8f4dc" stroke-width="2"/>
+  <rect x="214" y="585" width="32" height="15" rx="3" fill="#e4f1eb"/>
+  <path d="M230 564C230 507 350 514 350 435V365Q350 233 493 154" fill="none" stroke="#dcf4d3" stroke-width="15"/>
+  <path d="M230 564C230 507 350 514 350 435V365Q350 233 493 154" fill="none" stroke="#137a60" stroke-width="5" marker-end="url(#decel-route-head)"/>
+  <rect x="343" y="76" width="151" height="48" rx="7" fill="#176f4c" stroke="#fff" stroke-width="2"/>
+  <text x="419" y="108" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="700" fill="#fff">나가는 곳 ↗</text>
+  <path d="M420 407 385 395" stroke="#607a68" stroke-width="2"/>
+  <text x="476" y="400" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="700" fill="#09634b">감속차로</text><text x="476" y="432" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#425f4d">속도를 줄임</text>
+  <text x="280" y="713" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="700" fill="#09634b">본선 → 감속차로 → 출구</text>
+  <text x="280" y="742" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#687b74">아래에서 위로 진행 · 대표 구조의 개념도</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620" role="img">
+<rect width="600" height="620" rx="20" fill="#263934"/>
+<path d="M100 575V365Q100 150 320 60h200Q340 205 340 365v210Z" fill="#465750"/>
+<path d="M220 575V365Q220 185 414 60" stroke="#e7c75c" stroke-width="4" fill="none"/>
+<path d="M110 575V365Q110 175 328 70M330 575V365Q330 207 508 70" stroke="#d9e4df" stroke-width="4" fill="none"/>
+<path d="M330 475V365Q330 307 354 259" stroke="#8ee6ae" stroke-width="8" fill="none"/>
+<circle cx="196" cy="282" r="38" fill="#cdbc7b" opacity=".4"/><circle cx="196" cy="282" r="21" fill="#e2d59c" opacity=".55"/>
+<rect x="255" y="488" width="46" height="76" rx="10" fill="#238467"/><rect x="261" y="494" width="34" height="14" rx="3" fill="#e2ece9"/>
+<path d="M278 477 326 387" stroke="#8ee6ae" stroke-width="6" stroke-dasharray="10 7"/><path d="m331 377-21 17 19 10Z" fill="#8ee6ae"/>
+<path d="m278 477-75-163" stroke="#e5a496" stroke-width="3" stroke-dasharray="7 8"/><path d="m184 267 24 30m-24 0 24-30" stroke="#f0aa98" stroke-width="5"/>
+<text x="300" y="32" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="700" fill="#eff9ee">눈이 부시면 빛을 계속 응시하지 않기</text>
+<text x="113" y="344" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#f0b9a9">상대 불빛</text>
+<text x="453" y="415" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#b3f2c7">우측 가장자리</text>
+<text x="453" y="445" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#b3f2c7">쪽으로 시선</text>
+<text x="300" y="600" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#d5f6df">시선만 잠시 오른쪽 · 차는 차로 유지</text></svg>

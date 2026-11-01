@@ -1,0 +1,7 @@
+{
+  "name": "driving-study-preview",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "dev": "node preview.cjs", "build": "node build-pages.cjs", "test": "node exam-core.test.cjs && node exam-explanations.test.cjs" },
+  "engines": { "node": ">=18 <19" }
+}
